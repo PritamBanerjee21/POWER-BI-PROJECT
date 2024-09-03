@@ -11,7 +11,7 @@ This project presents a comprehensive analysis of the Indian Premier League (IPL
 - [Data Cleaning](#data-cleaning)
 - [Data Modeling](#data-modeling)
 - [Building Visuals](#building-visuals)
-- [Key Insights](#key-insights)
+- [10 Key Insights](#10-key-insights)
 - [How to Use](#how-to-use)
 - [Conclusion](#conclusion)
 
@@ -62,7 +62,7 @@ The report is designed to be visually engaging and informative:
 - **DAX Measures**: A total of 35 DAX measures, ranging from simple to complex, were created to generate insights.
 - **Dynamic Title**: Leveraged DAX to create dynamic titles which changes upon selection of slicers.
 
-## Key Insights
+## 10 Key Insights
 1. **16 teams** have participated across **17 seasons**, with a total of **1106 matches** played.
 2. **Wankhede Stadium** in Mumbai is the most used stadium, hosting **118 matches**.
 3. **Anil Chowdhury** is the most popular TV umpire.
