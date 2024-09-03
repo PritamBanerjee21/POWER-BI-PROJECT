@@ -45,21 +45,37 @@ The **Star Schema** was leveraged in data modeling, with the "all season details
 ## Building Visuals
 The report is designed to be visually engaging and informative:
 - **HOME Page**: Includes a brief description of IPL, navigators to other pages, and an IPL logo linking to the official IPL page.
+
+![image](https://github.com/user-attachments/assets/ada6a498-eb9f-478c-8cab-7384dbfd26d7)
+
+  
 - **IPL OVERVIEW Page**:
   - **Cards**: Display total seasons, total teams participated, and total matches played.
   - **Bar Charts**: Show top 10 stadiums and 10 most used TV umpires.
   - **Line Charts**: Illustrate average runs per season, total no-balls, and the percentage of wide balls per season.
   - **Table**: Lists the top four ranked teams of all seasons.
   - **Hover Feature**: On the average runs per season line chart, hovering displays total boundaries and count of runs.
+ 
+![image](https://github.com/user-attachments/assets/3f5043c4-25b6-4d77-80d5-928c0f928db1)
+
+    
 - **TEAM PROFILE Page**:
   - **Tables**: Show team performance in each season and venue.
   - **Column Charts**: Depict top 5 run scorers and top 5 wicket-takers for each team in each season.
   - **Parameterized Chart**: Displays average runs, total boundaries, and total wickets for each team in each over in each season.
   - **Clear Slicers Button**: Allows users to clear all slicers for easier data exploration.
+ 
+![image](https://github.com/user-attachments/assets/1148cb1c-f440-4fe2-8c4d-1b1d03915e5f)
+
+    
 - **PLAYER PROFILE Page**:
   - **Bar Charts**: Show top 5 six hitters and top 5 four hitters in each season.
   - **Visual**: Displays face-off between each bowler and batter in each season.
   - **Clear Slicers Button**: Similar to the TEAM PROFILE page.
+
+![image](https://github.com/user-attachments/assets/9c782a41-209f-4289-89f1-eb3fec08a128)
+
+
 
 ### Key Features Utilized:
 - **Parameterized Charts**
