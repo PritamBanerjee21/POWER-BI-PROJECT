@@ -59,6 +59,7 @@ The report is designed to be visually engaging and informative:
 - **Parameterized Charts**
 - **Edit Interaction**
 - **Custom and Conditional Columns**
+- **Custom Tooltip**: Created two separate visuals as a tooltip for average runs per season line chart.
 - **DAX Measures**: A total of 35 DAX measures, ranging from simple to complex, were created to generate insights.
 - **Dynamic Title**: Leveraged DAX to create dynamic titles which changes upon selection of slicers.
 
