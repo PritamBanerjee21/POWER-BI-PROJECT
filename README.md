@@ -10,6 +10,7 @@ This project presents a comprehensive analysis of the Indian Premier League (IPL
 - [Overview](#overview)
 - [Data Cleaning](#data-cleaning)
 - [Data Modeling](#data-modeling)
+- [Schema Diagram](#schema-diagram)
 - [Building Visuals](#building-visuals)
 - [10 Key Insights](#10-key-insights)
 - [How to Use](#how-to-use)
@@ -35,6 +36,11 @@ The dataset consisted of several CSV files, organized into folders for the 2022,
 
 ## Data Modeling
 The **Star Schema** was leveraged in data modeling, with the "all season details" table at the center. Relationships between different tables were established using matching columns, enabling effective filtering in visuals.
+
+## Schema Diagram
+
+![image](https://github.com/user-attachments/assets/8c610328-b0be-4cbe-bd88-12513b34fe17)
+
 
 ## Building Visuals
 The report is designed to be visually engaging and informative:
