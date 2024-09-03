@@ -65,7 +65,8 @@ The report is designed to be visually engaging and informative:
   - **Parameterized Chart**: Displays average runs, total boundaries, and total wickets for each team in each over in each season.
   - **Clear Slicers Button**: Allows users to clear all slicers for easier data exploration.
  
-![image](https://github.com/user-attachments/assets/1148cb1c-f440-4fe2-8c4d-1b1d03915e5f)
+![image](https://github.com/user-attachments/assets/2cfb6ada-be38-439c-8f1e-67c45e464c47)
+
 
     
 - **PLAYER PROFILE Page**:
