@@ -60,6 +60,7 @@ The report is designed to be visually engaging and informative:
 - **Edit Interaction**
 - **Custom and Conditional Columns**
 - **DAX Measures**: A total of 35 DAX measures, ranging from simple to complex, were created to generate insights.
+- **Dynamic Title**: Leveraged DAX to create dynamic titles which changes upon selection of slicers.
 
 ## Key Insights
 1. **16 teams** have participated across **17 seasons**, with a total of **1106 matches** played.
