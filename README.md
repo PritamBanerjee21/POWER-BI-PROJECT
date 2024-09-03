@@ -4,7 +4,7 @@ This project presents a comprehensive analysis of the Indian Premier League (IPL
 
 ## Links
 - **Dataset**: https://www.kaggle.com/datasets/rajsengo/indian-premier-league-ipl-all-seasons
-- **Live Dashboard**: [Power BI IPL Report](#)
+- **Live Dashboard**: https://app.powerbi.com/view?r=eyJrIjoiOTBlMjU3ZTctYjRjYi00NTllLWI4ZDQtMWMwYjY1NWRkZDU1IiwidCI6ImVhYTYyODJiLWQ3NDktNDFmZi1iMjU1LTlkZTAzYmRjNzM5MSJ9&pageName=e71a431924c80936e332
   
 ## Table of Contents
 - [Overview](#overview)
